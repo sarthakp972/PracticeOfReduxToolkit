@@ -1,0 +1,73 @@
+[
+    {
+      "id": 1,
+      "name": "Apple iPhone 13",
+      "description": "Latest iPhone model featuring improved cameras and battery life.",
+      "price": 999.99,
+      "image": "https://example.com/images/iphone13.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Samsung Galaxy S21",
+      "description": "Flagship Samsung phone with a stunning display and powerful performance.",
+      "price": 799.99,
+      "image": "https://example.com/images/galaxys21.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Google Pixel 6",
+      "description": "Capture stunning photos with the best camera in a smartphone.",
+      "price": 599.99,
+      "image": "https://example.com/images/pixel6.jpg"
+    },
+    {
+      "id": 4,
+      "name": "OnePlus 9",
+      "description": "Fast and smooth performance with an exceptional camera.",
+      "price": 729.99,
+      "image": "https://example.com/images/oneplus9.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Sony WH-1000XM4",
+      "description": "Wireless noise-canceling headphones with great sound quality.",
+      "price": 349.99,
+      "image": "https://example.com/images/wh1000xm4.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Dell XPS 13",
+      "description": "Ultra-portable laptop with stunning display and high performance.",
+      "price": 1299.99,
+      "image": "https://example.com/images/xps13.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Apple MacBook Air",
+      "description": "Lightweight laptop with an M1 chip for great speed and battery life.",
+      "price": 999.99,
+      "image": "https://example.com/images/macbookair.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Samsung Galaxy Tab S7",
+      "description": "Powerful tablet with a large display and productivity features.",
+      "price": 649.99,
+      "image": "https://example.com/images/galaxytabs7.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Fitbit Charge 5",
+      "description": "Advanced fitness tracker with built-in GPS and health metrics.",
+      "price": 179.99,
+      "image": "https://example.com/images/charge5.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Sony PlayStation 5",
+      "description": "Next-gen gaming console with exclusive titles and high-speed SSD.",
+      "price": 499.99,
+      "image": "https://example.com/images/ps5.jpg"
+    }
+  ]
+  
